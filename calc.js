@@ -6,3 +6,7 @@ calc.add = function(a,b){
 }
 
 module.exports = calc;
+
+
+var name = "my name is karl....";
+
