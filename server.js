@@ -14,4 +14,10 @@ var server = http.createServer(function(req,res){
 
 server.listen(9045, function(){ 
     console.log('Server is running...');
+    
 });
+
+console.log('Server is running...');
+console.log('Server is running...');
+console.log("우리집 강아지는 깊둥이 강아지 학교갔다 돌아오면 멍멍머")
+
